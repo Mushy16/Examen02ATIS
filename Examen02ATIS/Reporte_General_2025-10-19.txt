@@ -1,0 +1,15 @@
+--- Reporte Generado el 2025-10-19 a las 23:24:27.221136400 ---
+--- Top 3 Aulas con más horas reservadas (Activas) ---
+1. Aula: F306 (Salon Maquilishuat) - Total Horas: 6.00
+1. Aula: C102 (Salon Teorico) - Total Horas: 4.00
+1. Aula: A100 (Auditorio 1) - Total Horas: 2.00
+
+--- Ocupación por Tipo de Aula (Horas Activas) ---
+- TEORICA: 4.00 horas
+- LABORATORIO: 6.00 horas
+- AUDITORIO: 2.00 horas
+
+--- Distribución por Tipo de Reserva (Activas) ---
+- Reservas de Clase: 1
+- Reservas de Práctica: 0
+- Reservas de Evento: 2
